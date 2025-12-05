@@ -11,4 +11,6 @@ Here are some ideas to get you started:
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/AxelinnXD?style=social"> ![Github Badge](https://img.shields.io/badge/naifiprjkt-🤝partner-fff?logo=github)
 [![Telegram Badge](https://img.shields.io/badge/Telegram-%40axelin-9cf?logo=telegram)](https://t.me/axelinsevensix) ![](https://komarev.com/ghpvc/?username=axelin)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=AxelinnXD)](https://git.io/streak-stats)
+
+![AxelinnXD GitHub stats](https://github-readme-stats.vercel.app/api?username=AxelinnXD&show_icons=true&theme=dracula)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AxelinnXD&theme=dracula)](https://git.io/streak-stats)
