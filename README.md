@@ -1,4 +1,4 @@
-<h3 align="center"> Hi there 👋, I'm axelin </h3>
+<h3 align="center"> Hi there 👋, I'm naifi </h3>
 
 Here are some ideas to get you started:
 
@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - I’m currently learning android 
 - I'M No0b"
  
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/AxelinnXD?style=social"> ![Github Badge](https://img.shields.io/badge/naifiprjkt-🤝partner-fff?logo=github)
-[![Telegram Badge](https://img.shields.io/badge/Telegram-%40axelin-9cf?logo=telegram)](https://t.me/axelinsevensix) ![](https://komarev.com/ghpvc/?username=axelin)
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/rufnx?style=social"> ![Github Badge](https://img.shields.io/badge/naifiprjkt-🤝partner-fff?logo=github)
+[![Telegram Badge](https://img.shields.io/badge/Telegram-%40axelin-9cf?logo=telegram)](https://t.me/rufnxx) ![](https://komarev.com/ghpvc/?username=rufnx)
 
-[![AxelinnXD github stats](https://github-readme-stats.vercel.app/api?username=AxelinnXD&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github.com/AxelinnXD)
+[![rufnx github stats](https://github-readme-stats.vercel.app/api?username=rufnx&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github.com/rufnx)
